@@ -1,4 +1,0 @@
-Training
-configs
-and
-docs
